@@ -496,23 +496,24 @@ the Stock Exchange Control Act, 1985 (as amended). The organisation can
 go to different banks to seek advice on the best way to look after its
 funds.
 
-8.8 The treasurer is solely responsible for any money that needs to be withdrawn from the bank account and this is done solely at the treasurer's discretion.
+8.8 The treasurer is the gatekeeper for any money that needs to be paid from the bank account and this is done solely at the treasurer's discretion.
 
-8.9 The treasurer is responsive for all finical records and book keeping.
+8.9 As a gatekeeper to the bank account, the treasurer may not withdraw any money from the bank account unless another body corporate member requests it.
 
-8.10 Any body corporate member including the chairperson must submit a proposed budget to the treasurer before the treasurer can act.
+8.10 The treasurer is responsive for all financial records and book keeping.
 
-8.11 Non body corporate members may not request a budget or money from the treasurer.
+8.11 Any body corporate member (including the chairperson) must submit a proposed budget to the treasurer before the treasurer can act.
 
-8.12 The treasurer will not pay any money into a body corporate members bank account unless a emergency is approved in writing to the chairperson. This emergency amount may only be less than R5000 and strict accounting will be adhered to by both the treasurer and body corporate member.
+8.12 Non body corporate members may not request money from the treasurer.
 
-8.13 Nepotism by the treasurer, chairperson or body corporate is strictly prohibited.
+8.13 The treasurer will not pay any money into a body corporate member's bank account unless a emergency is approved in writing by the chairperson. This emergency amount may only be less than R5000 and strict accounting will be adhered to by both the treasurer and body corporate member in this instance.
 
-8.14 The treasurer may give the body corporate or chairperson one warning for disobeying these financial rules.
-On the second warning a vote of must be called for in 7 days where all members of the body corporate should be invited. The accused can not vote and the treasurer's vote counts as two votes.
+8.14 Nepotism by the treasurer, chairperson or body corporate is strictly prohibited.
 
-
-
+8.15 The treasurer may give any member of the body corporate or chairperson one warning for disobeying these financial rules.
+All body corporate members will be informed of this warning by the treasurer.
+On the second warning a special general meeting to dismiss the body corporate member must be called by the treasurer in 7 days where all members of the body corporate should be invited. The accused can not vote and the treasurer's vote counts as two votes.
+Dismissal is immediate and final and all members of the Jozi-JUG will be informed publicly.
 
 9.AMENDMENTS TO THE CONSTITUTION
 
